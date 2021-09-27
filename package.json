@@ -11,10 +11,14 @@
         "prepare": "husky install"
     },
     "devDependencies": {
+        "autoprefixer": "^10.3.6",
         "axios": "^0.21",
         "husky": "^7.0.2",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
-        "postcss": "^8.1.14"
+        "postcss": "^8.3.8",
+        "sass": "^1.42.1",
+        "sass-loader": "^12.1.0",
+        "tailwindcss": "^2.2.16"
     }
 }
